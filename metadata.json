@@ -1,0 +1,7 @@
+{
+  "name": "Yakup Games Portal",
+  "description": "Premium HTML5 gaming portal designed for Yakup with exclusive features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
